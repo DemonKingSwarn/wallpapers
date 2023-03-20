@@ -1,0 +1,11 @@
+#+TITLE: My Wallpapers
+#+AUTHOR: DemonKingSwarn
+
+[[./banner.jpg]]
+
+* Notes
+
+- All wallpapers are 1920x1080 jpegs
+- Naming conventions: =sequence.jpg=
+- Banner generated with =montage *.jpg  -geometry 1280x720+1+1 banner.jpg=
+- Obviously I don't hold the copy right to any of these
