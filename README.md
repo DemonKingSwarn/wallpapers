@@ -1,6 +1,6 @@
 # My Wallpapers
 
-![](./banner.jpg)
+![](./banner.jpeg)
 
 # Notes
 
